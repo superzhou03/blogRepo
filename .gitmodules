@@ -1,0 +1,3 @@
+[submodule "superzhou03-blog/themes/vno-hugo"]
+	path = superzhou03-blog/themes/vno-hugo
+	url = https://github.com/xslingcn/vno-hugo.git
